@@ -1,0 +1,17 @@
+C:\Users\Juan Daniel Ozuna\Documents\GitHub\CMDB.ClassPractice\CMDB.Solution\CMDB.Test\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\Juan Daniel Ozuna\Documents\GitHub\CMDB.ClassPractice\CMDB.Solution\CMDB.Test\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\Juan Daniel Ozuna\Documents\GitHub\CMDB.ClassPractice\CMDB.Solution\CMDB.Test\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\Juan Daniel Ozuna\Documents\GitHub\CMDB.ClassPractice\CMDB.Solution\CMDB.Test\bin\Debug\netcoreapp2.2\CMDB.BackEndTest.deps.json
+C:\Users\Juan Daniel Ozuna\Documents\GitHub\CMDB.ClassPractice\CMDB.Solution\CMDB.Test\bin\Debug\netcoreapp2.2\CMDB.BackEndTest.runtimeconfig.json
+C:\Users\Juan Daniel Ozuna\Documents\GitHub\CMDB.ClassPractice\CMDB.Solution\CMDB.Test\bin\Debug\netcoreapp2.2\CMDB.BackEndTest.runtimeconfig.dev.json
+C:\Users\Juan Daniel Ozuna\Documents\GitHub\CMDB.ClassPractice\CMDB.Solution\CMDB.Test\bin\Debug\netcoreapp2.2\CMDB.BackEndTest.dll
+C:\Users\Juan Daniel Ozuna\Documents\GitHub\CMDB.ClassPractice\CMDB.Solution\CMDB.Test\bin\Debug\netcoreapp2.2\CMDB.BackEndTest.pdb
+C:\Users\Juan Daniel Ozuna\Documents\GitHub\CMDB.ClassPractice\CMDB.Solution\CMDB.Test\bin\Debug\netcoreapp2.2\CMDB.BackEnd.dll
+C:\Users\Juan Daniel Ozuna\Documents\GitHub\CMDB.ClassPractice\CMDB.Solution\CMDB.Test\bin\Debug\netcoreapp2.2\CMDB.BackEnd.pdb
+C:\Users\Juan Daniel Ozuna\Documents\GitHub\CMDB.ClassPractice\CMDB.Solution\CMDB.Test\obj\Debug\netcoreapp2.2\CMDB.BackEndTest.csprojAssemblyReference.cache
+C:\Users\Juan Daniel Ozuna\Documents\GitHub\CMDB.ClassPractice\CMDB.Solution\CMDB.Test\obj\Debug\netcoreapp2.2\CMDB.BackEndTest.csproj.CoreCompileInputs.cache
+C:\Users\Juan Daniel Ozuna\Documents\GitHub\CMDB.ClassPractice\CMDB.Solution\CMDB.Test\obj\Debug\netcoreapp2.2\CMDB.BackEndTest.AssemblyInfoInputs.cache
+C:\Users\Juan Daniel Ozuna\Documents\GitHub\CMDB.ClassPractice\CMDB.Solution\CMDB.Test\obj\Debug\netcoreapp2.2\CMDB.BackEndTest.AssemblyInfo.cs
+C:\Users\Juan Daniel Ozuna\Documents\GitHub\CMDB.ClassPractice\CMDB.Solution\CMDB.Test\obj\Debug\netcoreapp2.2\CMDB.BackEndTest.csproj.CopyComplete
+C:\Users\Juan Daniel Ozuna\Documents\GitHub\CMDB.ClassPractice\CMDB.Solution\CMDB.Test\obj\Debug\netcoreapp2.2\CMDB.BackEndTest.dll
+C:\Users\Juan Daniel Ozuna\Documents\GitHub\CMDB.ClassPractice\CMDB.Solution\CMDB.Test\obj\Debug\netcoreapp2.2\CMDB.BackEndTest.pdb

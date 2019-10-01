@@ -6,7 +6,8 @@ namespace CMDB.FrontEnd
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            ConsoleController consoleController = new ConsoleController();
+            consoleController.Start();
         }
     }
 }
