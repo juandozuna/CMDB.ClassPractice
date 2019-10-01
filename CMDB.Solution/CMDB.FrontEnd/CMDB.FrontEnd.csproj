@@ -6,7 +6,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\CMDB.BackEnd\CMDB.BackEnd.csproj" />
+    <Compile Remove="Controller\**" />
+    <EmbeddedResource Remove="Controller\**" />
+    <None Remove="Controller\**" />
   </ItemGroup>
 
 </Project>

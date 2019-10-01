@@ -5,7 +5,23 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="DataAccess\" />
+    <Compile Remove="DataAccess\**" />
+    <Compile Remove="Manager\**" />
+    <Compile Remove="Migrations\**" />
+    <Compile Remove="Models\**" />
+    <EmbeddedResource Remove="DataAccess\**" />
+    <EmbeddedResource Remove="Manager\**" />
+    <EmbeddedResource Remove="Migrations\**" />
+    <EmbeddedResource Remove="Models\**" />
+    <None Remove="DataAccess\**" />
+    <None Remove="Manager\**" />
+    <None Remove="Migrations\**" />
+    <None Remove="Models\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="CMDBContext.cs" />
+    <Compile Remove="DbContextBuilder.cs" />
   </ItemGroup>
 
   <ItemGroup>
