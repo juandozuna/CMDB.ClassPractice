@@ -9,7 +9,7 @@ namespace CMDB.FrontEnd
     public class ConsoleController
     {
         private readonly MenuController _menuController;
-        private ConfigurationItemController _configurationItemController;
+        private readonly ConfigurationItemController _configurationItemController;
         public ConsoleController()
         {
             _menuController = new MenuController(new List<string>
